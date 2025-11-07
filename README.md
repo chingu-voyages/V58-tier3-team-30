@@ -42,4 +42,4 @@ coding!
 - Yuhang Zhou: [GitHub](https://github.com/zhou0244) / [LinkedIn](https://www.linkedin.com/in/yuhang-zhou-170b21148/)
 - Andrew Smith: [GitHub](https://github.com/meuzishun) / [LinkedIn](https://www.linkedin.com/in/andrew-sm1th/)
 - Myron Holmes: [GitHub](https://github.com/MyronHolmes) / [LinkedIn](https://www.linkedin.com/in/myron-holmes/)
-
+- Margaret Wu: [Github] (https://github.com/margaretcwu) / [LinkedIn] (https://www.linkedin.com/in/margaretcwu)
