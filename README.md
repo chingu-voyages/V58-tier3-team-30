@@ -35,11 +35,6 @@ your repo access and to practice PR'ing with your team _before_ you start
 coding!
 
 - Adelola Abioye #1: [GitHub](https://github.com/Adel-abio) / [LinkedIn](https://www.linkedin.com/in/adelola-abioye/)
-- Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
-
-  ...
-
-- Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 - Yuhang Zhou: [GitHub](https://github.com/zhou0244) / [LinkedIn](https://www.linkedin.com/in/yuhang-zhou-170b21148/)
 - Andrew Smith: [GitHub](https://github.com/meuzishun) / [LinkedIn](https://www.linkedin.com/in/andrew-sm1th/)
 - Myron Holmes: [GitHub](https://github.com/MyronHolmes) / [LinkedIn](https://www.linkedin.com/in/myron-holmes/)
