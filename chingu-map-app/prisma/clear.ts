@@ -1,4 +1,4 @@
-import prisma from '../src/db';
+import prisma from '../db';
 
 async function main() {
   await prisma.chingu.deleteMany();
