@@ -9,7 +9,9 @@
     "lint": "eslint",
     "db:generate": "prisma generate",
     "db:migrate": "prisma migrate dev",
-    "db:studio": "prisma studio"
+    "db:studio": "prisma studio",
+    "db:seed": "tsx prisma/seed.ts",
+    "db:clear": "tsx prisma/clear.ts"
   },
   "dependencies": {
     "@prisma/client": "^6.19.0",
