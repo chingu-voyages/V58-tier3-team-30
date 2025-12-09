@@ -39,3 +39,4 @@ coding!
 - Andrew Smith: [GitHub](https://github.com/meuzishun) / [LinkedIn](https://www.linkedin.com/in/andrew-sm1th/)
 - Gursimran [GitHub](https://github.com/Gursimranb127) / [LinkedIn](https://www.linkedin.com/in/gursimransinghonly)
 - Margaret Wu [GitHub](https://github.com/margaretcwu) / [LinkedIn](https://www.linkedin.com/in/margaretcwu/)
+- Sabrina Shuss [GitHub](https://github.com/sabrinadshuss) / [LinkedIn](https://www.linkedin.com/in/sabrinashuss/)
