@@ -49,6 +49,29 @@ By combining interactive maps, filters, and animated transitions, We-Connect mak
    ```bash
    git clone https://github.com/chingu-voyages/V58-tier3-team-30/tree/main/chingu-map-app.git
 
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Set up environment variables:
+   ```bash
+   NEXT_PUBLIC_MAPBOX_TOKEN=your_mapbox_token
+   DATABASE_URl=your_supabase_pooling_url
+   DIRECT_URL=your_direct_url_to_database
+   
+4. Set up the database with Prisma:
+   ```bash
+   npx prisma generate
+   npx prisma migrate dev
+
+5. Start the development server:
+   ```bash
+   npm run dev
+
+6. Open your browser:
+   ```bash
+   http://localhost:3000
+
 
 ## Our Team
 
