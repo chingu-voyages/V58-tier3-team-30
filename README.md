@@ -47,7 +47,7 @@ By combining interactive maps, filters, and animated transitions, We-Connect mak
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-org/we-connect.git
+   git clone https://github.com/chingu-voyages/V58-tier3-team-30/tree/main/chingu-map-app.git
 
 
 ## Our Team
