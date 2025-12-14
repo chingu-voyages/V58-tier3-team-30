@@ -1,4 +1,5 @@
 # 🌍 We-Connect
+  🔗 **Live Demo:** [View Project](https://next-app-one-ivory.vercel.app/)
 
 ## Overview
 We-Connect is a data visualization platform built as part of a **Chingu Voyage**.  
