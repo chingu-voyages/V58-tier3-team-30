@@ -1,5 +1,5 @@
 import fs from 'fs';
-import prisma from '../db';
+import prisma from '../src/db';
 
 const displayNamesCache = new Map<string, Intl.DisplayNames>();
 
@@ -11,7 +11,7 @@ export function getCountryName(code?: string, locale = 'en'): string {
     dn = new Intl.DisplayNames([locale], { type: 'region' });
     displayNamesCache.set(locale, dn);
   }
-  return dn.of(normalized as any) ?? normalized;
+  return dn.of(normalized) ?? normalized;
 }
 
 export type RawChinguEntry = {
