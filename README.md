@@ -1,38 +1,56 @@
-# voyage-tasks
+# 🌍 We-Connect
 
-Your project's `readme` is as important to success as your code. For
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
+## Overview
+We-Connect is a data visualization platform built as part of a **Chingu Voyage**.  
+The goal of this project is to explore and understand Chingu’s global community by visualizing data from **thousands of users** across the world.
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point -
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
+By combining interactive maps, filters, and animated transitions, We-Connect makes it easy to analyze user distribution by country, role, project tier, and gender.
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
+## Features
+- 🌎 **Global Map Visualization**
+  - Interactive Mapbox globe displaying users by country
+  - Animated zoom and focus when a country is selected
 
-> Own it & Make it your Own!
+- 🔍 **Advanced Filtering**
+  - Filter users by:
+    - Solo Project Tier (Tier 1–3)
+    - User Tier (Tier 1–3)
+    - Role (Scrum Master, Developer, UI/UX Designer, etc.)
+    - Gender
+  - Apply **multiple filters simultaneously**
+  - Remove filter layers individually to reveal more data
 
-## Team Documents
+- 📍 **Country Search**
+  - Search for a country directly
+  - Triggers map animation and displays a detailed info card
 
-You may find these helpful as you work together to organize your project.
+- 🪪 **Dynamic Info Cards**
+  - Pop-up cards show filtered user insights
+  - Automatically update based on active filters
 
-- [Team Project Ideas](./docs/team_project_ideas.md)
-- [Team Decision Log](./docs/team_decision_log.md)
+- 🔁 **Map & List View Toggle**
+  - Switch between:
+    - Interactive map view
+    - Structured list view for easier data scanning
 
-Meeting Agenda templates (located in the `/docs` directory in this repo):
+## Tech Stack
+- **Framework:** Next.js
+- **Language:** TypeScript
+- **UI:** React
+- **State Management:** Zustand
+- **Styling:** Tailwind CSS + Custom CSS (preset color system)
+- **Icons:** Lucide Icons
+- **Database:** Prisma
+- **Mapping & Visualization:** Mapbox
 
-- Meeting - Voyage Kickoff --> ./docs/meeting-voyage_kickoff.docx
-- Meeting - App Vision & Feature Planning --> ./docs/meeting-vision_and_feature_planning.docx
-- Meeting - Sprint Retrospective, Review, and Planning --> ./docs/meeting-sprint_retrospective_review_and_planning.docx
-- Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
+## Running the Project Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-org/we-connect.git
+
 
 ## Our Team
-
-Everyone on your team should add their name along with a link to their GitHub
-& optionally their LinkedIn profiles below. Do this in Sprint #1 to validate
-your repo access and to practice PR'ing with your team _before_ you start
-coding!
 
 - Adelola Abioye: [GitHub](https://github.com/Adel-abio) / [LinkedIn](https://www.linkedin.com/in/adelola-abioye/)
 - Andrew Smith: [GitHub](https://github.com/meuzishun) / [LinkedIn](https://www.linkedin.com/in/andrew-sm1th/)
